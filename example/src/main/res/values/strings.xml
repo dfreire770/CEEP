@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Cual es el plan?</string>
+
+
+    <string-array name="action_settings">
+        <item>Mapa</item>
+        <item>Compartir</item>
+    </string-array>
+    <string name="title_activity_lugar">Informacion</string>
+
+    <string name="title_activity_maps">Mapa</string>
+    <string name="share">"Me divierto con amigos gracias a 'Cual es el plan?'"</string>
+
+</resources>
